@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💀 `root@developer:~$`
 
-<!--
-**ClassManExpress/ClassManExpress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Aspiring Developer | Exploring the digital world.
 
-Here are some ideas to get you started:
+💻 **Languages:** JavaScript · PHP · Python  
+🔐 **Interests:** Linux · Cybersecurity · Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+$ learn
+$ code
+$ debug
+$ repeat
+```
+
+```python
+while True:
+    learn()
+    build()
+    improve()
+```
+
+`[ ACCESS GRANTED ]`
